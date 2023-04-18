@@ -4,7 +4,7 @@ This is my second python project on Github. I will perform data analysis on the 
 
 Throughout this project, I will analyze, clean, and visualize data as well as pose questions and seek to answer them in a meaningful.
 
-To view the full analysis please view the Jupyter notbook titled 'biodiversity.ipynb'.
+Full analysis the Jupyter notbook titled 'biodiversity.ipynb'.
 
 # References
 
