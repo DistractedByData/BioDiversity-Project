@@ -1,5 +1,5 @@
 # National Parks Endangered Species Analysis
-Project 2 in my Data Analytics Journey on Github..
+## Project 2 in my Data Analytics Journey on Github..
 
 This project aims to interpret data from the National Parks Service regarding endangered species in different parks. I will perform data analysis on the conservation statuses of these species and investigate if there are any patterns or themes to the types of species that become endangered.
 
