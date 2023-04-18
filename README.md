@@ -1,8 +1,8 @@
 # National Parks Endangered Species Analysis - Introduction
 
-This is my second python project on Github. I will perform data analysis on the conservation statuses of these species and investigate if there are any patterns or themes to the types of species that become endangered.
+This is my second python project on Github. I will perform data analysis on the conservation statuses of 25,000 endagered species found in a dataset from the National Parks Service. 
 
-The analysis aims to interpret data from the National Parks Service regarding endangered species in different parks. Throughout this project, I will analyze, clean, and visualize data as well as pose questions and seek to answer them in a meaningful.
+Throughout this project, I will analyze, clean, and visualize data as well as pose questions and seek to answer them in a meaningful.
 
 # Data Exploration
 
