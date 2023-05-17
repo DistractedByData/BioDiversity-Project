@@ -1,4 +1,4 @@
-# National Parks Endangered Species Analysis - Introduction
+# National Parks Species Analysis
 
 This is my first python project on Github. My goal is to apply data analysis, particularly practicing with Pandas and Matplotlib, as well as exploratory data analysis and using statistics and probabalities. 
 
